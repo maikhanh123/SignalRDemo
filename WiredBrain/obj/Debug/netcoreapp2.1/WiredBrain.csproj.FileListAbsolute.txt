@@ -1,0 +1,28 @@
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/bin/Debug/netcoreapp2.1/WiredBrain.deps.json
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/bin/Debug/netcoreapp2.1/WiredBrain.runtimeconfig.json
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/bin/Debug/netcoreapp2.1/WiredBrain.runtimeconfig.dev.json
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/bin/Debug/netcoreapp2.1/WiredBrain.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/bin/Debug/netcoreapp2.1/WiredBrain.pdb
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/obj/Debug/netcoreapp2.1/WiredBrain.csprojAssemblyReference.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/obj/Debug/netcoreapp2.1/WiredBrain.csproj.CoreCompileInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/obj/Debug/netcoreapp2.1/WiredBrain.RazorAssemblyInfo.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/obj/Debug/netcoreapp2.1/WiredBrain.RazorAssemblyInfo.cs
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/obj/Debug/netcoreapp2.1/WiredBrain.AssemblyInfoInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/obj/Debug/netcoreapp2.1/WiredBrain.AssemblyInfo.cs
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/obj/Debug/netcoreapp2.1/WiredBrain.RazorTargetAssemblyInfo.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/obj/Debug/netcoreapp2.1/WiredBrain.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/WiredBrain/obj/Debug/netcoreapp2.1/WiredBrain.pdb
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\bin\Debug\netcoreapp2.1\WiredBrain.deps.json
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\bin\Debug\netcoreapp2.1\WiredBrain.runtimeconfig.json
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\bin\Debug\netcoreapp2.1\WiredBrain.runtimeconfig.dev.json
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\bin\Debug\netcoreapp2.1\WiredBrain.dll
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\bin\Debug\netcoreapp2.1\WiredBrain.pdb
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\obj\Debug\netcoreapp2.1\WiredBrain.csprojAssemblyReference.cache
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\obj\Debug\netcoreapp2.1\WiredBrain.csproj.CoreCompileInputs.cache
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\obj\Debug\netcoreapp2.1\WiredBrain.RazorAssemblyInfo.cache
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\obj\Debug\netcoreapp2.1\WiredBrain.RazorAssemblyInfo.cs
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\obj\Debug\netcoreapp2.1\WiredBrain.AssemblyInfoInputs.cache
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\obj\Debug\netcoreapp2.1\WiredBrain.AssemblyInfo.cs
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\obj\Debug\netcoreapp2.1\WiredBrain.RazorTargetAssemblyInfo.cache
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\obj\Debug\netcoreapp2.1\WiredBrain.dll
+C:\Users\Hi-XV\Desktop\04\demos\WiredBrain\obj\Debug\netcoreapp2.1\WiredBrain.pdb

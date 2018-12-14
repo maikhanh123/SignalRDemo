@@ -1,0 +1,11 @@
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/ConsoleClient/bin/Debug/netcoreapp2.1/ConsoleClient.deps.json
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/ConsoleClient/bin/Debug/netcoreapp2.1/ConsoleClient.runtimeconfig.json
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/ConsoleClient/bin/Debug/netcoreapp2.1/ConsoleClient.runtimeconfig.dev.json
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/ConsoleClient/bin/Debug/netcoreapp2.1/ConsoleClient.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/ConsoleClient/bin/Debug/netcoreapp2.1/ConsoleClient.pdb
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/ConsoleClient/obj/Debug/netcoreapp2.1/ConsoleClient.csprojAssemblyReference.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/ConsoleClient/obj/Debug/netcoreapp2.1/ConsoleClient.csproj.CoreCompileInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/ConsoleClient/obj/Debug/netcoreapp2.1/ConsoleClient.AssemblyInfoInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/ConsoleClient/obj/Debug/netcoreapp2.1/ConsoleClient.AssemblyInfo.cs
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/ConsoleClient/obj/Debug/netcoreapp2.1/ConsoleClient.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/aspdotnet-core-signalr-getting-started/04/demos/ConsoleClient/obj/Debug/netcoreapp2.1/ConsoleClient.pdb
